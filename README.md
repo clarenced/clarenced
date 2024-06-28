@@ -1,4 +1,10 @@
 ## Hi there 👋
+- I'm @clarenced
+- 🌱 My day to day language is Java but I am also learning Rust and Elixir
+- 🤟 My favorite Java libraries : [Junit 5](https://github.com/junit-team/junit5), [testcontainers](https://github.com/testcontainers/testcontainers-java), [spring-boot](https://github.com/spring-projects/spring-boot) and many more
+- 👯 I have contributed to some open source projects : [Jkube](https://github.com/eclipse-jkube/jkube), [liquibase-neo4j](https://github.com/liquibase/liquibase-neo4j)
+- 📫 Let's stay in touch : [@dimiclarence](https://twitter.com/dimiclarence) / [LinkedIn](https://www.linkedin.com/in/charlesdimitri/) 
+  
 
 <!--
 **clarenced/clarenced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
